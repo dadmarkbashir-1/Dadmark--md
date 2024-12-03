@@ -35,23 +35,23 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-     *POPKID MD IMPORTANT INFO* 
+     *DEDMARK MD IMPORTANT INFO* 
 ❒───────────────────❒
 *GITHUB LINK*
-> https://github.com/Popkiddevs/NORMAL-BOT-MD
+> https://github.com/dadmarkbashir-1/Dadmark--md
 
 *WHATSAPP CHANNEL*
 > https://whatsapp.com/channel/0029VagWQ255q08VTCRQKP09
 ⁠
 ╭───────────────────❒
 │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│❒⁠⁠⁠⁠ *DEV1* : *POPKID*
-│❒⁠⁠⁠⁠ *DEV2* : *POPKID TECH*
+│❒⁠⁠⁠⁠ *DEV1* : *DADMARK*
+│❒⁠⁠⁠⁠ *DEV2* : *ANONYMOUS*
 ⁠⁠⁠⁠╰───────────────────❒
   `;
     
 let menuMsg = `
-     *Popkid Tech*
+     *Dadmark Tech*
 
 ❒────────────────────❒`;
 
