@@ -1,4 +1,4 @@
-const util = require('util');
+I'mconst util = require('util');
 const fs = require('fs-extra');
 const { zokou } = require(__dirname + "/../framework/zokou");
 const { format } = require(__dirname + "/../framework/mesfonctions");
@@ -43,12 +43,12 @@ Hello ${nomAuteurMessage},,
          𝐇𝐎𝐖 𝐓𝐎 𝐆𝐄𝐓 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐈𝐃
 ✞ Open this link 👉 https://dadmark-sessions-generator-n5yf.onrender.com/ then tap on pair code.
 ✞ Enter your whatsapp number with the country code e.g;  254111385747 then tap submit 
-✞Popkid Md owner , *POPKID* ,will send you the code immediately.Copy the code and whatsapp will bring a notification 
+✞Dadmark Md owner , *DADMARK* ,will send you the code immediately.Copy the code and whatsapp will bring a notification 
 ✞Tap on the notification and paste the code that Popkid md owner sent you.
-✞ After a successful login Popkid Md owner 😂 DADMARK will send you a *session id* .some will wonder where the hell is that session ,,,...It is just right at your inbox /dm {your own number for whatsappp} 😂
+✞ After a successful login Dadmark Md owner 😂 DADMARK will send you a *session id* .some will wonder where the hell is that session ,,,...It is just right at your inbox /dm {your own number for whatsappp} 😂
 ✞Copy the Session id {the one with unreadable codes and long copy it and send it to your deployer or deploy
      𝐇𝐎𝐖 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘❤️
-✔ Now check on Popkid repository in github fork and give a star to this repository before doing anything 🌟or else Dadmark Md owner won't allow you to deploy his bot💀.
+✔ Now check on Dadmark repository in github fork and give a star to this repository before doing anything 🌟or else Dadmark Md owner won't allow you to deploy his bot💀.
 ✔Tap on heroku deploy tab  given there. First thing you should do is getting your *Heroku Api Key* insert it to the required space .
 ✔Enter the valid *heroku app name* and again repeat it to the blank space asking for app name accordingly.Fill everything and press on the below tab Deploy
 ✔In some heroku apps the buld logs might not show but it will eventually deploy 
