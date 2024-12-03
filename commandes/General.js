@@ -68,12 +68,12 @@ zokou({ nomCom: "dev", categorie: "General", reaction: "💘" }, async (dest, zk
 
     const devs = [
       { nom: "POPKID", numero: "254111385747" },
-      { nom: "᚛POPKID᚜", numero: "254732297194" },
-      { nom: "ENZO", numero: "254784115308" },
+      { nom: "᚛ANONYMOUS᚜", numero: "254756394081" },
+      { nom: "DADMARK", numero: "254714342128" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
-    let message = "WELCOME TO POPKID HELP CENTER! ASK FOR HELP FROM ANY OF THE DEVELOPERS BELOW:\n\n";
+    let message = "WELCOME TO ANONYMOUS HELP CENTER! ASK FOR HELP FROM ANY OF THE DEVELOPERS BELOW:\n\n";
     for (const dev of devs) {
       message += `----------------\n• ${dev.nom} : https://wa.me/${dev.numero}\n`;
     }
