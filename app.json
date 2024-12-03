@@ -1,8 +1,8 @@
 {
   "name":"DADMARK",
-  "description":"Best whatsapp bot developed by IAN",
+  "description":"Best whatsapp bot developed by POPKID",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://i.ibb.co/hYF7XQw/IMG-20241019-WA0222.jpg",
+  "logo":"https://i.ibb.co/B2T7fph/IMG-20241203-WA0042.jpg",
   "repository":"https://github.com/dadmarkbashir-1/Dadmark--md",
   "succes_url":"/",
   "stack":"container",
@@ -42,7 +42,7 @@
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://i.ibb.co/hYF7XQw/IMG-20241019-WA0222.jpg",
+      "value":"https://i.ibb.co/B2T7fph/IMG-20241203-WA0042.jpg",
       "required":false
        
      },
