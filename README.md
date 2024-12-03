@@ -66,7 +66,7 @@ src="https://cardivo.vercel.app/api?name=DADMARK%20MD%20V5&description=🥂THE%2
    <br>
 2. Now Deploy
     <br>
-<a href='https://heroku.com/deploy?template=https://github.com/Popkiddevs/NORMAL-BOT-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-green?style=for-the-badge&logo=heroku'/></a>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/dadmarkbashir-1/Dadmark--md' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-green?style=for-the-badge&logo=heroku'/></a>
 
 
 #### DEPLOY ON RAILWAY
