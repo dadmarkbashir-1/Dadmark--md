@@ -1,4 +1,4 @@
-#        𝐏𝐎𝐏𝐊𝐈𝐃 𝐌𝐃 𝐕𝐄𝐑𝐒𝐈𝐎𝐍𝐒
+#        DADMARK 𝐌𝐃 𝐕𝐄𝐑𝐒𝐈𝐎𝐍𝐒
 
   
 
@@ -8,7 +8,7 @@
 
 
 <img align="center" height="auto"
-src="https://cardivo.vercel.app/api?name=POPKID%20MD%20V5&description=🥂THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20POPKID%20TECH%20432%20KING%20OF%20CODING%20OWNER%20OF%20POPKID%20MD%20WA%20BOT♥️&image=https://telegra.ph/file/4fe5da5003e390a58de5f.jpg?v=4&backgroundColor=%23ecf0f1&github=popkid&pattern=leaf&colorPattern=%23eaeaea"/>
+src="https://cardivo.vercel.app/api?name=DADMARK%20MD%20V5&description=🥂THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20DADMARK%20TECH%20432%20KING%20OF%20CODING%20OWNER%20OF%20DADMARK%20MD%20WA%20BOT♥️&image=https://telegra.ph/file/4fe5da5003e390a58de5f.jpg?v=4&backgroundColor=%23ecf0f1&github=popkid&pattern=leaf&colorPattern=%23eaeaea"/>
    
    
    
@@ -16,12 +16,12 @@ src="https://cardivo.vercel.app/api?name=POPKID%20MD%20V5&description=🥂THE%20
                                       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+20+Charted&size=30&pause=1000&color=F71515&width=435&lines=BOT+100%25+LEGIT" alt="Typing SVG" /></a>   
             
 <p align="center"> 
-<up A simple WhatsApp User Bot Coded By DAISY❤️</u>
+<up A simple WhatsApp User Bot Coded By DADMARK❤️</u>
 </p>
 <p align="center">
 <img src="https://files.catbox.moe/yedfbr.jpg"/>       
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=25&duration=4000&pause=1000&random=false&width=435&lines=+•__I'M+POPKID-+MD__•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+DAISY❤️+MD+TECHS;RELEASED+DATE+07%2F7%2F2024."                               alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=25&duration=4000&pause=1000&random=false&width=435&lines=+•__I'M+POPKID-+MD__•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+DADMARK❤️+MD+TECHS;RELEASED+DATE+07%2F7%2F2024."                               alt="Typing SVG" /></a>
 </p> 
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-POPKID_TECH-red.svg?style=for-the-badge&logo=github"></a>
@@ -37,8 +37,8 @@ src="https://cardivo.vercel.app/api?name=POPKID%20MD%20V5&description=🥂THE%20
   </a>
    
 <p align="center">
-<a href="https://github.com/Popkiddevs/NORMAL-BOT-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Popkiddevs/NORMAL-BOT-MD?color=white&style=flat-square"></a>
-<a href="https://github.com/Popkiddevs/NORMAL-BOT-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Popkiddevs/NORMAL-BOT-MD?color=yellow&style=flat-square"></a>
+<a href="https://github.com/dadmarkbashir-1/Dadmark--md/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Popkiddevs/NORMAL-BOT-MD?color=white&style=flat-square"></a>
+<a href="https://github.com/dadmarkbashir-1/Dadmark--md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Popkiddevs/NORMAL-BOT-MD?color=yellow&style=flat-square"></a>
 <a href="https://github.com/Popkiddevs/NORMAL-BOT-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Popkiddevs/NORMAL-BOT-MD?label=Watchers&color=red&style=flat-square"></a>
 <a href="https://github.com/Janithsadanuwan/Queen-Nilu-Md/"><img title="Size" src="https://img.shields.io/github/repo-size/AlipBot/Api-Alpis?style=flat-square&color=darkred"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Janithsadanuwan/Queen-Nilu-Md/%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2304FF00&title=hits&edge_flat=false"/></a>
