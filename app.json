@@ -1,9 +1,9 @@
 {
-  "name":"POPKID",
+  "name":"DADMARK",
   "description":"Best whatsapp bot developed by IAN",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://i.ibb.co/hYF7XQw/IMG-20241019-WA0222.jpg",
-  "repository":"https://github.com/Popkiddevs/NORMAL-BOT-MD",
+  "repository":"https://github.com/dadmarkbashir-1/Dadmark--md",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -35,7 +35,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"POPKID MD",
+      "value":"DADMARK MD",
       "required":false
 
     } ,
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "POPKID"
+    "value": "DADMARK"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254111385747"
+    "value": "254714342128"
   },
     "WARN_COUNT":
   {
