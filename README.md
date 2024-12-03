@@ -19,12 +19,12 @@ src="https://cardivo.vercel.app/api?name=DADMARK%20MD%20V5&description=🥂THE%2
 <up A simple WhatsApp User Bot Coded By DADMARK❤️</u>
 </p>
 <p align="center">
-<img src="https://files.catbox.moe/yedfbr.jpg"/>       
+<img src="https://i.ibb.co/B2T7fph/IMG-20241203-WA0042.jpg"/>       
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=25&duration=4000&pause=1000&random=false&width=435&lines=+•__I'M+POPKID-+MD__•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+DADMARK❤️+MD+TECHS;RELEASED+DATE+07%2F7%2F2024."                               alt="Typing SVG" /></a>
 </p> 
 <p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-POPKID_TECH-red.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-DADMARK_TECH-red.svg?style=for-the-badge&logo=github"></a>
 </a>
 </p>
 <p align="center">
