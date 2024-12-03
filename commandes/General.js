@@ -107,7 +107,7 @@ else {
 zokou({ nomCom: "support", categorie: "General" }, async (dest, zk, commandeOptions) => {
   const { ms, repondre, auteurMessage, } = commandeOptions; 
  
-  repondre("THANK YOU FOR CHOOSING POPKID, HERE ARE OUR SUPPORTIVE LINKS\n\n ☉ CHANNEL LINK IS HERE ☉ \n\n❒⁠⁠⁠⁠[https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l] \n\n ☉ GROUP LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l] \n\n ☉YOUTUBE LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://www.youtube.com/@popkid254] \n\n\n*Created By Mr POPKID") 
-  await zk.sendMessage(auteurMessage,{text : `THANK YOU FOR CHOOSING POPKID,MAKE SURE YOU FOLLOW THESE LINKS. `},{quoted :ms})
+  repondre("THANK YOU FOR CHOOSING DADMARK, HERE ARE OUR SUPPORTIVE LINKS\n\n ☉ CHANNEL LINK IS HERE ☉ \n\n❒⁠⁠⁠⁠[https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l] \n\n ☉ GROUP LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l] \n\n ☉YOUTUBE LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://www.youtube.com/@tigerbashir] \n\n\n*Created By Mr DADMARK") 
+  await zk.sendMessage(auteurMessage,{text : `THANK YOU FOR CHOOSING DADMARK,MAKE SURE YOU FOLLOW THESE LINKS. `},{quoted :ms})
 
 })
