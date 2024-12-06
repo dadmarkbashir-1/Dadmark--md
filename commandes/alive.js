@@ -92,7 +92,7 @@ else {
     
 await addOrUpdateDataInAlive(texte , tlien)
 
-repondre(' Holla🥴, *POPKID MD BOT* is alive just like you gee. ')
+repondre(' Holla🥴, *DADMARK MD BOT* is alive just like you gee. ')
 
 }
     });
