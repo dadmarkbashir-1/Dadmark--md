@@ -21,19 +21,19 @@ src="https://cardivo.vercel.app/api?name=DADMARK%20MD%20V5&description=🥂THE%2
 <p align="center">
 <img src="https://i.ibb.co/B2T7fph/IMG-20241203-WA0042.jpg"/>       
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=25&duration=4000&pause=1000&random=false&width=435&lines=+•__I'M+POPKID-+MD__•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+DADMARK❤️+MD+TECHS;RELEASED+DATE+07%2F7%2F2024."                               alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=25&duration=4000&pause=1000&random=false&width=435&lines=+•__I'M+DADMARK-+MD__•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+DADMARK❤️+MD+TECHS;RELEASED+DATE+07%2F7%2F2024."                               alt="Typing SVG" /></a>
 </p> 
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-DADMARK_TECH-red.svg?style=for-the-badge&logo=github"></a>
 </a>
 </p>
 <p align="center">
-<a href="https://github.com/Popkiddevs"><img title="Author" src="https://img.shields.io/badge/POPKID-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/237656520674"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp">
+<a href="https://github.com/dadmark--1"><img title="Author" src="https://img.shields.io/badge/DADMARK-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/237656520674"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp">
 <p/>
 
  <p align="center">
   <a href="https://kg-site-support.vercel.app/">
-    <img src="https://img.shields.io/badge/POPKID WEBSITE-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Generate Session ID"/>
+    <img src="https://img.shields.io/badge/DADMARK WEBSITE-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Generate Session ID"/>
   </a>
    
 <p align="center">
@@ -46,7 +46,7 @@ src="https://cardivo.vercel.app/api?name=DADMARK%20MD%20V5&description=🥂THE%2
 
 ### 1. FORK THIS REPO
 
-<a href='https://github.com/Popkiddevs/NORMAL-BOT-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+<a href='https://github.com/dadmarkbashir-1/Dadmark--md/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 <p align="center">
 
 #### 𝐒𝐄𝐓𝐔𝐏
