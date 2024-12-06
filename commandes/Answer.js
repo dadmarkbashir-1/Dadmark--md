@@ -14,7 +14,7 @@ zokou({nomCom:"dadmark",reaction:"📡",categorie:"IA"},async(dest,zk,commandeOp
   const {repondre,ms,arg}=commandeOptions;
   
     if(!arg || !arg[0])
-    {return repondre("HI IF YOU ARE A GIRL POPKID LOVES YOU⭕😘❤️❤️.")}
+    {return repondre("HI IF YOU ARE A GIRL DADMARK LOVES YOU⭕😘❤️❤️.")}
     //var quest = arg.join(' ');
   try{
     
@@ -61,7 +61,7 @@ fetch(`http://api.brainshop.ai/get?bid=177607&key=NwzhALqeO1kubFVD&uid=[uid]&msg
       const response = await axios.get(`http://api.maher-zubair.tech/ai/photoleap?q=${image}`);
       
       const data = response.data;
-      let caption = '*powered by popkid-MD*';
+      let caption = '*powered by dadmark-MD*';
       
       if (data.status == 200) {
         // Utiliser les données retournées par le service
