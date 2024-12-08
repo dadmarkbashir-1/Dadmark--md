@@ -14,7 +14,7 @@ zokou({nomCom:"dadmark",reaction:"👽",categorie:"IA"},async(dest,zk,commandeOp
   const {repondre,ms,arg}=commandeOptions;
   
     if(!arg || !arg[0])
-    {return repondre("HI IF YOU ARE A GIRL DADMARK LOVES YOU⭕😘❤️❤️AND IF YOU ARE A BOY PENDWA NA WAZAZI.")}
+    {return repondre("https://www.facebook.com/reel/3693422597544350/?mibextid=1IA4WTzGAdMqEBGb.")}
     //var quest = arg.join(' ');
   try{
     
