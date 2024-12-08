@@ -9,12 +9,12 @@ const { default: axios } = require('axios');
 
 
 
-zokou({nomCom:"dadmark",reaction:"📡",categorie:"IA"},async(dest,zk,commandeOptions)=>{
+zokou({nomCom:"dadmark",reaction:"👽",categorie:"IA"},async(dest,zk,commandeOptions)=>{
 
   const {repondre,ms,arg}=commandeOptions;
   
     if(!arg || !arg[0])
-    {return repondre("HI IF YOU ARE A GIRL DADMARK LOVES YOU⭕😘❤️❤️.")}
+    {return repondre("HI IF YOU ARE A GIRL DADMARK LOVES YOU⭕😘❤️❤️AND IF YOU ARE A BOY PENDWA NA WAZAZI.")}
     //var quest = arg.join(' ');
   try{
     
