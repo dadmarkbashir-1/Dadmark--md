@@ -9,7 +9,7 @@ const { default: axios } = require('axios');
 
 
 
-zokou({nomCom:"dadmark",reaction:"👽",categorie:"IA"},async(dest,zk,commandeOptions)=>{
+zokou({nomCom:"christmas",reaction:"👽",categorie:"IA"},async(dest,zk,commandeOptions)=>{
 
   const {repondre,ms,arg}=commandeOptions;
   
