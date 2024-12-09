@@ -8,7 +8,7 @@
 
 
 <img align="center" height="auto"
-src="https://cardivo.vercel.app/api?name=DADMARK%20MD%20V5&description=🥂THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20DADMARK%20TECH%20432%20KING%20OF%20CODING%20OWNER%20OF%20DADMARK%20MD%20WA%20BOT♥️&image=https://telegra.ph/file/4fe5da5003e390a58de5f.jpg?v=4&backgroundColor=%23ecf0f1&github=popkid&pattern=leaf&colorPattern=%23eaeaea"/>
+src="https://cardivo.vercel.app/api?name=DADMARK%20MD%20V5&description=🥂THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20DADMARK%20TECH%20432%20KING%20OF%20CODING%20OWNER%20OF%20DADMARK%20MD%20WA%20BOT♥️&image=https://files.catbox.moe/edoi8s.jpgv=4&backgroundColor=%23ecf0f1&github=popkid&pattern=leaf&colorPattern=%23eaeaea"/>
    
    
    
@@ -19,7 +19,7 @@ src="https://cardivo.vercel.app/api?name=DADMARK%20MD%20V5&description=🥂THE%2
 <up A simple WhatsApp User Bot Coded By DADMARK❤️</u>
 </p>
 <p align="center">
-<img src="https://i.ibb.co/B2T7fph/IMG-20241203-WA0042.jpg"/>       
+<img src="https://files.catbox.moe/edoi8s.jpg"/>       
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=25&duration=4000&pause=1000&random=false&width=435&lines=+•__I'M+DADMARK-+MD__•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+DADMARK❤️+MD+TECHS;RELEASED+DATE+07%2F7%2F2024."                               alt="Typing SVG" /></a>
 </p> 
