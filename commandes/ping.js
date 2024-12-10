@@ -1,12 +1,12 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 const { zokou } = require("../framework/zokou");
-zokou({ nomCom: "test", reaction: "🧒", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "christmas", reaction: "🧒", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
     console.log("Commande saisie !!!s");
-    let z = '*⭕DADMARK 𝗜𝗦 𝗢𝗡𝗟𝗜𝗡𝗘⭕* 🙏 \n\n ' + "DADMARK 𝗖𝗔𝗡𝗧 𝗦𝗟𝗘𝗘𝗣⏰⭕";
+    let z = '*⭕DADMARK IS ONLINE⭕* 🙏 \n\n ' + "MERRY CHRISTMAS ⏰⭕";
     let d = '                                                                           𝗛𝗘𝗔𝗟𝗧𝗛 𝗦𝗧𝗔𝗧𝗨𝗦✨';
     let varmess = z + d;
-    var mp4 = 'https://telegra.ph/file/ce58cf8c538b1496fda33.mp4';
+    var mp4 = 'https://files.catbox.moe/3pwjn9.mp4';
     await zk.sendMessage(dest, { video: { url: mp4 }, caption: varmess });
     //console.log("montest")
 });
