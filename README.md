@@ -54,7 +54,7 @@ src="https://cardivo.vercel.app/api?name=DADMARK%20MD%20V5&description=🥂THE%2
 
 1.𝐆𝐄𝐓 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐈𝐃 𝐅𝐑𝐎𝐌 𝐒𝐄𝐑𝐕𝐄𝐑
 
-<a href="https://popkid-sessions-generator-1iqg.onrender.com"><img src="https://img.shields.io/badge/PAIR_CODE-blue" alt="Click Here to Get Pair-Code" width="110"></a>   
+<a href="https://popkid-sessions-generator-de3r.onrender.com/pair"><img src="https://img.shields.io/badge/PAIR_CODE-blue" alt="Click Here to Get Pair-Code" width="110"></a>   
 
 <a href="https://popkid-sessions-generator-1iqg.onrender.com"><img src="https://img.shields.io/badge/QR CODE-green" alt="Click Here to Get QR-Code" width="90"></a> 
 
